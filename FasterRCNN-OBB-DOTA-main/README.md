@@ -120,8 +120,3 @@ python plot_loss.py
 
 ---
 
-## Author
-
-**Sakshi S. Jangi**  
-B.Tech, Electronics and Communication Engineering  
-National Institute of Technology Warangal
